@@ -5,8 +5,8 @@ My site!
 
 About me:
 
-Hi, my name is Anirudh and I'm in 8th grade.
-Hobbies: tennis, basketball, singing.
+Hi, my name is Anirudh and I'm in 8th grade.  
+Hobbies: tennis, basketball, singing.  
 Favorite book: _The Martian_ .
 
 
