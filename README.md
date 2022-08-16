@@ -6,8 +6,9 @@ My site!
 About me:
 
 Hi, my name is Anirudh and I'm in 8th grade.  
-Hobbies: tennis, basketball, singing.  
-Favorite book: _The Martian_ .
+I go to Stratford School.  
+I play tennis and I sing Indian classical music.  
+
 
 
 Space for my projects:
